@@ -34,12 +34,6 @@ PatientCareTracker/
 │       └── services/
 ```
 
-## 🚀 Running the Project
-
-### 1. Backend
-
-### 2. Frontend
-
 
 ## 📌 API Endpoints
 - `GET /api/patients` - List all patients
@@ -51,7 +45,6 @@ PatientCareTracker/
 - Angular consumes REST APIs via HttpClient
 - Simple demo for showcasing full-stack development skills in a healthcare-like domain
 
-## 🙋 Author
 **Gopi Krishna** – Full Stack Java + Angular Developer
 
 ---
