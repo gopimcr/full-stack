@@ -1,7 +1,7 @@
 
 # Patient Care Tracker
 
-A simple full-stack web application built to demonstrate healthcare domain capabilities using Java, Spring Boot, Angular, and SQLite/H2.
+A simple full-stack web application built to demonstrate healthcare domain capabilities using Java, Spring Boot, Angular, and H2.
 
 ## 🔧 Tech Stack
 - **Backend:** Java 11, Spring Boot, H2 Database (can be replaced with SQLite)
@@ -37,19 +37,9 @@ PatientCareTracker/
 ## 🚀 Running the Project
 
 ### 1. Backend
-```bash
-cd backend
-./mvnw spring-boot:run
-```
-App will run on: `http://localhost:8080`
 
 ### 2. Frontend
-```bash
-cd frontend
-npm install
-ng serve
-```
-Frontend will run on: `http://localhost:4200`
+
 
 ## 📌 API Endpoints
 - `GET /api/patients` - List all patients
@@ -58,7 +48,6 @@ Frontend will run on: `http://localhost:4200`
 - `DELETE /api/patients/{id}` - Delete patient
 
 ## 📃 Notes
-- H2 Console available at `http://localhost:8080/h2-console`
 - Angular consumes REST APIs via HttpClient
 - Simple demo for showcasing full-stack development skills in a healthcare-like domain
 
