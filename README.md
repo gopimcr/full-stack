@@ -63,8 +63,7 @@ Frontend will run on: `http://localhost:4200`
 - Simple demo for showcasing full-stack development skills in a healthcare-like domain
 
 ## 🙋 Author
-**Gopi Krishna** – Full Stack Java + Angular Developer  
-Project built for CVS Health technical interview (2025)
+**Gopi Krishna** – Full Stack Java + Angular Developer
 
 ---
 
